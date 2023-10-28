@@ -306,8 +306,9 @@ function stopGame(){
 function startGame(){
   setDuration(10);
   showUp();
-  setEventListeners();
-  startTimer()
+  clearScore(); // Add this line to clear the score
+  setEventListeners(); //when click on mole we will increase the score
+  startTimer() // start timer for our game
   return "game started";
 }
 
