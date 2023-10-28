@@ -1,3 +1,27 @@
+# Whack-A-Mole Project
+
+This project contains our final work on Web Development course to create a Whack-A-Mole game.
+In this game user click "start" to begin the game
+hit each mole to get score and have timer set up to 9 sec
+when start new game our score get reset and start over again
+
+
+## About me
+* [Chadapon Personal Github page](https://github.com/chadaponthinkful)
+
+## Special Thanks
+Thank you Indeed for supporting me transitioning into SWE role!
+
+## Resources
+* [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+
+
+
+
+
+
+
 # Web Development Certificate Capstone: Whack-a-Mole!
 
 A local game development studio has decided to create a new game that's based on Whack-A-Mole. If you've ever been to an arcade, you have probably seen or played Whack-A-Mole. It's a game in which a player uses a mallet to hit toy moles, which appear at random, back into their holes.
